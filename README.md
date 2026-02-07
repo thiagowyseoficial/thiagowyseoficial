@@ -101,5 +101,6 @@ My goal is to turn business requirements into **solid technical solutions**, wit
 - Learning and exchanging knowledge with other developers  
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagowyseoficial&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagowyseoficial&theme=dark)
+
 
