@@ -102,4 +102,4 @@ My goal is to turn business requirements into **solid technical solutions**, wit
 
 ---
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=thiagowyseoficial&theme=github-dark)
