@@ -28,3 +28,16 @@ My goal is to turn business requirements into **solid technical solutions**, wit
 </p>
 
 ---
+
+## 🧠 What I do
+
+- 🏗️ Backend systems & REST APIs
+- ⚡ Performance optimization & efficient queries
+- 🧩 Clean code, clean architecture & system design
+- 🗄️ Database modeling & data persistence
+- 🔐 Secure APIs & authentication
+- 🔗 System integrations & automation
+- 📊 Backend logic & data-driven solutions
+
+---
+
