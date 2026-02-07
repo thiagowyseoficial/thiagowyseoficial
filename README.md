@@ -72,3 +72,12 @@ My goal is to turn business requirements into **solid technical solutions**, wit
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagowyseoficial&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowyseoficial&layout=compact&theme=tokyonight" />
+</p>
+
+---
