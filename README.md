@@ -1,7 +1,6 @@
 # Hi 👋, I'm Thiago Wyse
 
-🚀 **Backend Developer | APIs with Java & JavaScript**  
-🇧🇷 Brazil
+🚀 **Backend Developer | APIs with Java & JavaScript** 
 
 I work on building **backend systems and APIs**, with strong expertise in **databases** and **data modeling**. My main stack is **Java (Spring Boot & Spring Data)** and **JavaScript**, focusing on **performance**, **clean code**, and **well-defined business rules**.
 
