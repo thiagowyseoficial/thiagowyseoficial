@@ -1,7 +1,7 @@
 # Hi 👋, I'm Thiago Wyse
 
 🚀 **Backend Developer | APIs with Java & JavaScript**  
-🇧🇷  Brazil
+🇧🇷 Brazil
 
 I work on building **backend systems and APIs**, with strong expertise in **databases** and **data modeling**. My main stack is **Java (Spring Boot & Spring Data)** and **JavaScript**, focusing on **performance**, **clean code**, and **well-defined business rules**.
 
@@ -10,6 +10,7 @@ I’m particularly interested in **backend architecture**, **system integrations
 My goal is to turn business requirements into **solid technical solutions**, with special attention to **structure**, **code quality**, and **application efficiency**.
 
 ---
+
 ## 🌐 Where to find me
 
 <p align="left">
@@ -31,13 +32,13 @@ My goal is to turn business requirements into **solid technical solutions**, wit
 
 ## 🧠 What I do
 
-- 🏗️ Backend systems & REST APIs
-- ⚡ Performance optimization & efficient queries
-- 🧩 Clean code, clean architecture & system design
-- 🗄️ Database modeling & data persistence
-- 🔐 Secure APIs & authentication
-- 🔗 System integrations & automation
-- 📊 Backend logic & data-driven solutions
+- 🏗️ Backend systems & REST APIs  
+- ⚡ Performance optimization & efficient queries  
+- 🧩 Clean code, clean architecture & system design  
+- 🗄️ Database modeling & data persistence  
+- 🔐 Secure APIs & authentication  
+- 🔗 System integrations & automation  
+- 📊 Backend logic & data-driven solutions  
 
 ---
 
@@ -56,20 +57,48 @@ My goal is to turn business requirements into **solid technical solutions**, wit
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frontend 
+### Frontend (Experience)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ---
 
-### ⚙️ DevOps & Tools
+## ⚙️ DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🧠 How I work
+
+- Backend-first mindset with strong focus on data consistency  
+- Clear separation of concerns and clean architecture principles  
+- API-first approach with well-defined contracts  
+- Performance-aware backend logic and queries  
+- Business-oriented thinking when designing systems  
+
+---
+
+## 🚀 Currently working on
+
+- Improving backend architecture with Spring Boot & Spring Data  
+- Building and evolving REST APIs focused on scalability  
+- Deepening knowledge in databases and query optimization  
+- Creating backend-focused content and sharing learning experiences  
+
+---
+
+## 🤝 Open to
+
+- Backend developer opportunities (Java / APIs / Databases)  
+- Collaboration on backend-focused projects  
+- Learning and exchanging knowledge with other developers  
 
 ---
 
@@ -79,6 +108,3 @@ My goal is to turn business requirements into **solid technical solutions**, wit
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagowyseoficial&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowyseoficial&layout=compact&theme=tokyonight" />
 </div>
-
-
----
